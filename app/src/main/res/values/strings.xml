@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="multi_click_msg">Are you clicking too fast? please wait for 3 seconds</string>
+    <string name="offline_msg">No Internet Available currently using Local Storage</string>
+    <string name="no_internet">No Internet Available</string>
+    <string name="contactDetails">Contact Details</string>
+</resources>
