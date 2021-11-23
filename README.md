@@ -2,13 +2,16 @@
 Take Home Assignment
 
 Features 
-- Fetch List 
-- Apply Click on item and Star Button
-- Pagination on scroll
-- Offline Access 
-- Avoid Double clicking in list
-- Internet connection check
-- Design In MVVM Pattern
-- Kotlin,Coroutine,Retrofit
+- MVVM Architecture Pattern
+- Using Retrofit with Kotlin Coroutines
+- Contact List Screen
+- Contact Detail Screen
+- Offline Access of App
+- Cell OnClickListener in RecyclerView
+- User can Starred-UnStarred in Contact LIst screen and Contact Detail screen
+- Scroll postion will be same after coming back from Contact Detail screen to Contact List screen
+- Avoid Double clicking in RecyclerView
+- Check Internet Connection
+
 
 
